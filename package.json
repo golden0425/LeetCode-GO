@@ -1,0 +1,11 @@
+{
+  "name": "LeetCode-GO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/golden0425/LeetCode-GO.git",
+  "author": "aXi <goldenwang0425@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "push": "git add . && git commit -m ${M}  && git push"
+  }
+}
